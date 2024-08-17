@@ -1,0 +1,12 @@
+.menu{
+    display: flex;
+    padding: 10 px;
+    gap: 20px;
+    top: 0px;
+    width: 100%;
+    position: relative;
+    justify-content:space-around;
+    background-color: rgb(152, 207, 191);
+    font-family: monospace;
+    font-size: 20px;
+}
